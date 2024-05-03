@@ -1,6 +1,6 @@
 # Магазин бытовой техники
 Можете посмотреть на русском языке:
-
+https://xaxathon.github.io/hardware-store/
 Можете посмотреть на английском языке:
 https://hardware-store-demo.web.app/
 
